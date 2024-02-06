@@ -1,0 +1,46 @@
+.education{
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    list-style: none;
+}
+
+.education .title{
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.education p{
+    margin-bottom: 2rem;
+}
+
+.content .conqDio{
+    font-weight: 700;
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conquistas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+    
+}
+
+.conquistas li{
+    list-style: none;
+    
+}
+
+.conquistas img{
+    height: 119px;
+    padding: .5rem;
+    
+}
