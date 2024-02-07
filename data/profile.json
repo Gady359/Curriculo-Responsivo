@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "Javascript",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/javascript.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/javascript.svg"
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/git.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/git.svg"
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/angular.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/angular.svg"
         },
         {
           "name": "Kotlin",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/kotlin.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/kotlin.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/css.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/css.svg"
         },
         {
           "name": "MySQL",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/mainassets/img/skills/mysql.png"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/mysql.png"
         }
         
       ],
