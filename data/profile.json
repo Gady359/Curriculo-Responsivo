@@ -8,29 +8,30 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "Javascript",
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/javascript.svg"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/git.svg"
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/angular.svg"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "Kotlin",
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/kotlin.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/css.svg"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "MySQL",
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/mysql.png"
         }
+        
       ],
       "softSkills": [
         "Comunicacao",
