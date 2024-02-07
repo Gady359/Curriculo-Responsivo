@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "Javascript",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/javascript.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/javascript.svg"
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/git.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/git.svg"
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/angular.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/angular.svg"
         },
         {
           "name": "Kotlin",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/kotlin.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/kotlin.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67a/assets/img/skills/css.svg"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/1e0fbaea3332da974bfecaa903da30249c5cb67aassets/img/skills/css.svg"
         },
         {
           "name": "MySQL",
-          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/main/assets/img/skills/mysql.png"
+          "logo": "https://raw.githubusercontent.com/Gady359/Curriculo-Responsivo/mainassets/img/skills/mysql.png"
         }
         
       ],
@@ -43,8 +43,8 @@
     },
     "languages": [
       "Português BR (Nativo)",
-      "Inglês (intermediario)",
-      "Espanhol (basico)"
+      "Inglês (Intermediario)",
+      "Espanhol (Basico)"
     ],
     "portfolio": [
       {
@@ -80,19 +80,9 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
+        "name": "Nada",
+        "period": "2003 - até o momento",
         "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
       }
     ]
   }
