@@ -22,9 +22,7 @@ function updateProfileInfo(profileData) {
 }
 
 function updateSoftSkills(profileData){
-    const softSkills=document.getElementById('profile.skills.softskills')
-
-
+    const softSkills=document.getElementById('profile.skills.softSkills')
     profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
 }
 
