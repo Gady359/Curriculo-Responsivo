@@ -48,13 +48,33 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "credit-application-system",
+        "url": "https://github.com/Gady359/credit-application-system",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "angular-blog",
+        "url": "https://github.com/Gady359/angular-blog",
+        "github": true
+      },
+      {
+        "name": "angular-psnStore",
+        "url": "https://github.com/Gady359/angular-psnStore",
+        "github": true
+      },
+      {
+        "name": "angular-quiz",
+        "url": "https://github.com/Gady359/angular-quiz",
+        "github": true
+      },
+      {
+        "name": "Cloud-Parking",
+        "url": "https://github.com/Gady359/Cloud-Parking",
+        "github": true
+      },
+      {
+        "name": "Sistema-CRUD",
+        "url": "https://github.com/Gady359/Sistema-CRUD",
         "github": true
       }
     ],
