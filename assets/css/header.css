@@ -66,11 +66,11 @@
 }
 
 .information .email::before {
-    background-image: url('../img/icons/cellphone.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 .information .phone::before {
-    background-image: url('../img/icons/email.svg');
+    background-image: url('../img/icons/cellphone.svg');
 }
 
 @media  only screen and (min-width: 768px) {
