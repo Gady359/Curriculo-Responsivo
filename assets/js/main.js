@@ -48,7 +48,7 @@ function updatePortfolio(profileData) {
     }).join('')
 }
 
-function updateprofessionalExperience(profileData) {
+function updateProfessionalExperience(profileData) {
     const experienceList = document.getElementById("profile.professionalExperience");
     profile.professionalExperience.forEach(job => {
         const li = document.createElement("li");
