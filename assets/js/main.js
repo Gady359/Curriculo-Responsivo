@@ -50,7 +50,7 @@ function updatePortfolio(profileData) {
 
 function updateProfessionalExperience(profileData) {
     const experienceList = document.getElementById("profile.professionalExperience");
-    profile.professionalExperience.forEach(job => {
+    experienceList.professionalExperience.forEach(job => {
         const li = document.createElement("li");
         li.innerHTML = `<strong>${job.name}</strong> - ${job.period}<br>${job.description}`;
         experienceList.appendChild(li);
