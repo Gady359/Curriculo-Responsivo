@@ -22,7 +22,7 @@ Ideal para desktop, tablet e smartphone.
 
 - **HTML5** para estruturação.  
 - **CSS3** com design responsivo usando **media queries**.  
-- **JavaScript** para interatividade  
+- **JavaScript** para interatividade.
 
 ---
 
