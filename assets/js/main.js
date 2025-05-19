@@ -49,12 +49,16 @@ function updatePortfolio(profileData) {
 }
 
 function updateProfessionalExperience(profileData) {
-    const experienceList = document.getElementById("profile.professionalExperience");
-    experienceList.professionalExperience.forEach(job => {
-        const li = document.createElement("li");
-        li.innerHTML = `<strong>${job.name}</strong> - ${job.period}<br>${job.description}`;
-        experienceList.appendChild(li);
-    });
+    const experienceList = document.getElementById('profile.professionalExperience')
+    experienceList.innerHTML = profileData.professionalExperience.map(job => {
+        return `
+            <li>
+                <h3>${job.name}</h3>
+                <p>${job.period}</p>
+                <p>${job.description}</p>
+            </li>
+        `
+    }).join('')
 }
 
 
