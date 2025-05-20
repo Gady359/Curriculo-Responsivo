@@ -48,6 +48,11 @@
     ],
     "portfolio": [
       {
+        "name": "Dashboards-Inteligentes-para-Gestao-Publica",
+        "url": "https://github.com/Gady359/Dashboards-Inteligentes-para-Gestao-Publica?tab=readme-ov-file",
+        "github": true
+      },     
+      {
         "name": "credit-application-system",
         "url": "https://github.com/Gady359/credit-application-system",
         "github": true
